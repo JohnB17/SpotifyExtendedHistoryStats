@@ -1,0 +1,21 @@
+/* body {
+    background-color: #2C2C2C;
+}
+
+h1 {
+    color: #D3D3D3;
+} */
+.card-title-custom {
+    color: #dfdfdf !important;
+}
+
+.card-subtitle-custom {
+    color: #8e8e8e !important;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, auto);
+    gap: 1rem; /* Optional: Add some space between the cards */
+}
