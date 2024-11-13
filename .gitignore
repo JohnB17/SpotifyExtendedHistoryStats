@@ -1,2 +1,4 @@
 
 PHP/phpinfo.php
+/PHP/spotifydata/*
+!/PHP/spotifydata/.gitkeep
